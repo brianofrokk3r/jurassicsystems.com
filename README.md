@@ -9,6 +9,7 @@ This project started out as a much smaller joke that got out of hand, so the imp
 
 ## Setup 
 ```
+git clone https://github.com/brianofrokk3r/jurassicsystems.com;
 cd jurassicsystems;
 npm install;
 node app.js;
